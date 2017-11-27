@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CherwellTest.Api", "CherwellTest.Api\CherwellTest.Api.csproj", "{FAF2A1E1-E8E3-43D0-88C3-A1DD5C1BAAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CherwellTest.Core", "CherwellTest.Core\CherwellTest.Core.csproj", "{D37B3B30-F3FE-4894-8359-89993902F334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CherwellTest.Service", "CherwellTest.Service\CherwellTest.Service.csproj", "{A0A07544-3F70-42BB-918F-4CDD4C273445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CherwellTest.Repository", "CherwellTest.Repository\CherwellTest.Repository.csproj", "{BBDA9740-0668-4D98-90C4-AF9D8105AF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CherwellTest.Service.Test", "CherwellTest.Service.Test\CherwellTest.Service.Test.csproj", "{3CF4D436-E4B8-4807-85A8-8A93AB629485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF2A1E1-E8E3-43D0-88C3-A1DD5C1BAAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2A1E1-E8E3-43D0-88C3-A1DD5C1BAAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2A1E1-E8E3-43D0-88C3-A1DD5C1BAAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2A1E1-E8E3-43D0-88C3-A1DD5C1BAAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37B3B30-F3FE-4894-8359-89993902F334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37B3B30-F3FE-4894-8359-89993902F334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37B3B30-F3FE-4894-8359-89993902F334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37B3B30-F3FE-4894-8359-89993902F334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A07544-3F70-42BB-918F-4CDD4C273445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A07544-3F70-42BB-918F-4CDD4C273445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A07544-3F70-42BB-918F-4CDD4C273445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A07544-3F70-42BB-918F-4CDD4C273445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDA9740-0668-4D98-90C4-AF9D8105AF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDA9740-0668-4D98-90C4-AF9D8105AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDA9740-0668-4D98-90C4-AF9D8105AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA9740-0668-4D98-90C4-AF9D8105AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF4D436-E4B8-4807-85A8-8A93AB629485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF4D436-E4B8-4807-85A8-8A93AB629485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF4D436-E4B8-4807-85A8-8A93AB629485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF4D436-E4B8-4807-85A8-8A93AB629485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
